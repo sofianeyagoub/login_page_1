@@ -9,4 +9,4 @@ License :
 - 
 website : www.hqtemplate.com
 
-Demo: https://preview.hqtemplate.com/preview47/index.html
+Demo: https://preview.hqtemplate.com/preview48/index.html
